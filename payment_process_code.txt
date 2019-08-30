@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("This will be printed");
+// Add a hello world message
+        System.out.println("Hello World");
     }
 }
